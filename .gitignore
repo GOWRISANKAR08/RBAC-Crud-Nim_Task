@@ -1,0 +1,4 @@
+employee_monitoring/.env
+.env.*
+!.env.example
+.venv
